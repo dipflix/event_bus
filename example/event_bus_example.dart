@@ -1,4 +1,4 @@
-import 'package:event_bus/event_bus.dart';
+import 'package:d_event_bus/d_event_bus.dart';
 
 final class UserLoggedInEvent extends Event {
   final String username;

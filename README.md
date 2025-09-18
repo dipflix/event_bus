@@ -32,7 +32,7 @@ Here is a complete example demonstrating the main features of the package.
 Create classes that extend the base `Event` class.
 
 ```dart
-import 'package:event_bus/event_bus.dart';
+import 'package:event_bus/d_event_bus.dart';
 
 // An event for when a user logs in
 final class UserLoggedInEvent extends Event {

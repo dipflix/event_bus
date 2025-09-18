@@ -1,4 +1,4 @@
-import 'package:event_bus/event_bus.dart';
+import 'package:d_event_bus/d_event_bus.dart';
 import 'package:test/test.dart';
 
 final class TestEvent extends Event {}
