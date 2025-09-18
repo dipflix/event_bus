@@ -1,4 +1,3 @@
-
 library;
 
 export 'src/event.dart';
@@ -9,4 +8,3 @@ export 'src/event_middleware.dart';
 export 'src/event_subscription.dart';
 export 'src/exceptions/event_process_exception.dart';
 export 'src/exceptions/event_validation_exception.dart';
-
