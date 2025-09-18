@@ -17,8 +17,15 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  git:
-    url: https://github.com/dipflix/event_bus.git
+  d_event_bus:
+    git:
+      url: https://github.com/dipflix/event_bus.git
+```
+
+or
+```yaml
+dependencies:
+  d_event_bus: ^1.0.0
 ```
 
 Then, run `dart pub get` in your terminal.
@@ -32,7 +39,7 @@ Here is a complete example demonstrating the main features of the package.
 Create classes that extend the base `Event` class.
 
 ```dart
-import 'package:event_bus/d_event_bus.dart';
+import 'package:d_event_bus/d_event_bus.dart';
 
 // An event for when a user logs in
 final class UserLoggedInEvent extends Event {
