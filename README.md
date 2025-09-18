@@ -1,5 +1,8 @@
 # Event Bus
 
+[![pub package](https://img.shields.io/pub/v/d_event_bus.svg)](https://pub.dev/packages/d_event_bus)
+
+
 A simple, flexible, and powerful event bus implementation for Dart, designed for decoupling different parts of an application in a clean, type-safe way.
 
 ## Features
