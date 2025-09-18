@@ -1,4 +1,4 @@
-import '../../event_bus.dart';
+import '../../d_event_bus.dart';
 
 class EventValidationException implements Exception {
   final String message;
