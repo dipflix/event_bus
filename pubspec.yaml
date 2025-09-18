@@ -1,5 +1,5 @@
 name: event_bus
-description: A starting point for Dart libraries or applications.
+description: A simple, flexible, and powerful event bus implementation for Dart, designed for decoupling different parts of an application in a clean, type-safe way.
 version: 1.0.0
 repository: https://github.com/dipflix/event_bus
 
